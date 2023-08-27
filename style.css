@@ -1,0 +1,39 @@
+ .timebox1{
+    height:300px;
+    width: 300px;
+    border: 2px solid ;
+    mrgin-top: 40px;
+    mrgin-left: 250px;
+    text-lign: center;
+    flot: left;
+    bckground-imge: url('../imges/imges.jpg');
+ }
+ .timebox1 p{
+    font-size: 30px;
+ }
+ .timebox2{
+    height:300px;
+    width: 300px;
+    border: 2px solid ;
+    mrgin-top: 40px;
+    mrgin-left: 30px;
+    text-lign: center;
+    flot: left;
+    bckground-imge: url('../imges/london.jpg');
+ }
+ .timebox2 p{
+    font-size: 30px;
+ }
+ .timebox3{
+    height:300px;
+    width: 300px;
+    border: 2px solid ;
+    mrgin-top: 40px;
+    mrgin-left: 30px;
+    text-lign: center;
+    flot: left;
+    bckground-imge: url('../imges/me.jpg');
+ }
+ .timebox3 p{
+    font-size: 30px;
+ }
